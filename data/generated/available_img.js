@@ -1,0 +1,1 @@
+define({ availableImg: ["Beck2016Visual","Cho2017UserEmotionSpace","ivanov2019approach","Jelincic2022SensoryDesign","Kwon2024VimoNet","Londero2016RemoteSensing","Packer2008MuseumValue","Roccetti2013VersoVerdi","Smith2018FacialExpressions","widjaja2019implementation","Zhang2023MuseumEmotions"]});
